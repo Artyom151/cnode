@@ -49,7 +49,7 @@ cnpm is a reimplementation of the npm package manager in Rust. It mirrors the np
 ### From source
 
 ```sh
-git clone https://github.com/cnode/cnode
+git clone https://github.com/Artyom151/cnode
 cd cnode
 cargo build --release
 ```
